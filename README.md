@@ -15,10 +15,6 @@ certificates with Free Code Camp.
 Thank you for stopping by, if you would like more information please reach out to me via:
   </p>
 
+<img src="LI-In-Bug.png" alt="LinkedIn Logo"> [LinkedIn](https://www.linkedin.com/in/amy-barba-34020115/)
 
-![LinkedIn](LI-In-Bug.png) [LinkedIn](https://www.linkedin.com/in/amy-barba-34020115/)
-
-![Twitter](Twitter_Logo_WhiteOnBlue.png) [Twitter](https://twitter.com/AmykBarba) 
-
-[title](https://www.example.com)
-![alt text](image.jpg)
+<img src="Twitter_Logo_WhiteOnBlue.png" alt="Twitter Logo"> [Twitter](https://twitter.com/AmykBarba) 
