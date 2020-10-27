@@ -17,5 +17,7 @@ Thank you for stopping by, if you would like more information please reach out t
 
 
 <img src="https://www.flaticon.com/free-icon/linkedin_174857 alt="LinkedIn Logo"> [Amy Barba](https://www.linkedin.com/in/amy-barba-34020115/)
-<a href="https://twitter.com/intent/tweet?button_hashtag=logo&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #logo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<img src="https://twitter.com/intent/tweet?button_hashtag=logo&ref_src=twsrc%5Etfw"> 
+
 [Amy Barba](https://twitter.com/AmykBarba)
