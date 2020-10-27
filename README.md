@@ -1,9 +1,6 @@
-### Hi there 👋
+<#h1 align="center>**Amy Barba**</h1>  
 
-<!--
-**Amybarba/Amybarba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-You have landed on Amy Barba's Github account. Currently I am located in Southern California but I am open to relocation for projects.
+<p aling="center"> You have landed on Amy Barba's Github account. Currently I am located in Southern California but I am open to relocation for projects.
 Upon scanning my repositories you can see the progressive build of code in various areas as well as my collaboration on various project 
 based repositories to create applications. In adding marketable skills to my resume I am currently exploring the world of computer code 
 via Lambda's Full stack Web Development course and Free Code Camp in order to learn and utilize various code languages; HTML, CSS, 
@@ -16,8 +13,12 @@ all areas of technology; hardware, data collection, front end design, etc...
 I am currently employed in a school district, running a young coders club, and working toward endorsement with Lambda and continued 
 certificates with Free Code Camp.
 Thank you for stopping by, if you would like more information please reach out to me via:
+  </p>
 
 
-LI-In-Bug.png  Amy Barba https://www.linkedin.com/in/amy-barba-34020115/
+![LinkedIn](LI-In-Bug.png) [LinkedIn](https://www.linkedin.com/in/amy-barba-34020115/)
 
-Twitter_Logo_WhiteOnBlue.png https://twitter.com/AmykBarba ###
+![Twitter](Twitter_Logo_WhiteOnBlue.png) [Twitter](https://twitter.com/AmykBarba) 
+
+[title](https://www.example.com)
+![alt text](image.jpg)
