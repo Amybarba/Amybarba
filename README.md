@@ -16,8 +16,5 @@ Thank you for stopping by, if you would like more information please reach out t
   </p>
 
 
-[![Twitter Logo](/Twitter_Logo_WhiteOnBlue.png)](https://twitter.com/AmykBarba)
-                                                                     
-img src="https://imgur.com/wrJ4iC9" alt="TwitterLogo" width="20" />
-(https://twitter.com/AmykBarba)
-  </p>
+[![Twitter Logo](/Twitter_Logo_WhiteOnBlue.png =100x20)](https://twitter.com/AmykBarba)
+                                                                       </p>
