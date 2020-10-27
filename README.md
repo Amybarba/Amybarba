@@ -20,4 +20,4 @@ Thank you for stopping by, if you would like more information please reach out t
 
 LI-In-Bug.png  Amy Barba https://www.linkedin.com/in/amy-barba-34020115/
 
-Twitter_Logo_WhiteOnBlue.png https://twitter.com/AmykBarba
+Twitter_Logo_WhiteOnBlue.png https://twitter.com/AmykBarba ###
