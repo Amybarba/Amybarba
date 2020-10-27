@@ -15,6 +15,4 @@ certificates with Free Code Camp.
 Thank you for stopping by, if you would like more information please reach out to me via:
   </p>
 
-[<img src=/Twitter_Logo_WhiteOnBlue.png alt="twitter" width="20" />](https://twitter.com/AmykBarba)
-
-[<img src=/LI-In-Bug.png alt="Linkedin" width="20" />](https://www.linkedin.com/in/amy-barba-34020115/)
+[<img src=/Twitter_Logo_WhiteOnBlue.png alt="twitter" width="20" />](https://twitter.com/AmykBarba)[<img src=/LI-In-Bug.png alt="Linkedin" width="20" />](https://www.linkedin.com/in/amy-barba-34020115/)
