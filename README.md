@@ -13,10 +13,9 @@ all areas of technology; hardware, data collection, front end design, etc...
 I am currently employed in a school district, running a young coders club, and working toward endorsement with Lambda and continued 
 certificates with Free Code Camp.
 Thank you for stopping by, if you would like more information please reach out to me via:
-  
+  </p>
 
 [![Twitter Logo](/Twitter_Logo_WhiteOnBlue.png =20x)](https://twitter.com/AmykBarba)
 
 
 [![linkedIn Logo](/LI-In-Bug.png)](https://www.linkedin.com/in/amy-barba-34020115/)
-</p>
