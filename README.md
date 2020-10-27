@@ -15,10 +15,10 @@ certificates with Free Code Camp.
 Thank you for stopping by, if you would like more information please reach out to me via:
   </p>
 
-<img src="https://platform.linkedin.com/badges/js/profile.js">
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="amy-barba-34020115"><a class="LI-simple-link" href='https://www.linkedin.com/in/amy-barba-34020115?trk=profile-badge'>Amy Barba</a></div>
 
+:linkedin: [Amy Barba](https://www.linkedin.com/in/amy-barba-34020115/)
 
-<img src="https://www.linkedin.com/" alt="LinkedIn Logo"> [Amy Barba](https://www.linkedin.com/in/amy-barba-34020115/)
+<img src="https://www.flaticon.com/free-icon/linkedin_174857 alt="LinkedIn Logo"> [Amy Barba](https://www.linkedin.com/in/amy-barba-34020115/)
 
-<img src="Twitter_Logo_WhiteOnBlue.png" alt="Twitter Logo"> [Amy Barba](https://twitter.com/AmykBarba) 
+:twitter: [Amy Barba](https://twitter.com/AmykBarba) 
+<img src="https://pngtree.com/freepng/twitter-free-button-png-image_4436094.html" alt="Twitter Logo"> [Amy Barba](https://twitter.com/AmykBarba)
