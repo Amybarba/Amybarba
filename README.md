@@ -3,14 +3,21 @@
 <!--
 **Amybarba/Amybarba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+You have landed on Amy Barba's Github account. Currently I am located in Southern California but I am open to relocation for projects.
+Upon scanning my repositories you can see the progressive build of code in various areas as well as my collaboration on various project 
+based repositories to create applications. In adding marketable skills to my resume I am currently exploring the world of computer code 
+via Lambda's Full stack Web Development course and Free Code Camp in order to learn and utilize various code languages; HTML, CSS, 
+JavaScript, React, Node,Python and Java. These are just a few and a good base to continue exploring this dynamic field. 
+Most of my work with computer coding has been remote and in general collaborative. My previous career I owned and managed a business 
+with up to forty employees that were payroll and independent contractors, this allowed me to create a peaceful and communicative team 
+environment. 
+As an owner of a business and in the world of code I am also comfortable in learning and perservering in self directed education in 
+all areas of technology; hardware, data collection, front end design, etc...
+I am currently employed in a school district, running a young coders club, and working toward endorsement with Lambda and continued 
+certificates with Free Code Camp.
+Thank you for stopping by, if you would like more information please reach out to me via:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+LI-In-Bug.png  Amy Barba https://www.linkedin.com/in/amy-barba-34020115/
+
+Twitter_Logo_WhiteOnBlue.png https://twitter.com/AmykBarba
