@@ -15,7 +15,7 @@ certificates with Free Code Camp.
 Thank you for stopping by, if you would like more information please reach out to me via:
   </p>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<img src="https://platform.linkedin.com/badges/js/profile.js">
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="amy-barba-34020115"><a class="LI-simple-link" href='https://www.linkedin.com/in/amy-barba-34020115?trk=profile-badge'>Amy Barba</a></div>
 
 
