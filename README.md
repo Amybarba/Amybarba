@@ -16,10 +16,7 @@ Thank you for stopping by, if you would like more information please reach out t
   </p>
 
 <p align="center">
-<img src="https://imgur.com/7AyxuK6" alt="LinkedIn" width="20" /> [Amy Barba](https://www.linkedin.com/in/amy-barba-34020115/)
+[<img src="https://imgur.com/7AyxuK6" alt="LinkedIn" width="20" />](https://www.linkedin.com/in/amy-barba-34020115/)
+                                                                     
+[img src="https://imgur.com/wrJ4iC9" alt="TwitterLogo" width="20" />](https://twitter.com/AmykBarba)
   </p>
-
-<p align="center">                                                                        
-<img src="https://imgur.com/wrJ4iC9" alt="TwitterLogo" width="20" /> [Amy Barba](https://twitter.com/AmykBarba)
-  </p>
-</p>
