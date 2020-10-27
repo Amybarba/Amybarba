@@ -12,6 +12,8 @@ As an owner of a business and in the world of code I am also comfortable in lear
 all areas of technology; hardware, data collection, front end design, etc...
 I am currently employed in a school district, running a young coders club, and working toward endorsement with Lambda and continued 
 certificates with Free Code Camp.
+</p>
+<p align="ceenter" style="bold>
 Thank you for stopping by, if you would like more information please reach out to me via:
   </p>
 
