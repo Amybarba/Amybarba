@@ -1,7 +1,7 @@
 <h1 align="center">Amy Barba</h1>  
 
 
-        _You have landed on Amy Barba's Github account. Currently I am located in Southern California but I am open to relocation for projects._
+*You have landed on Amy Barba's Github account. Currently I am located in Southern California but I am open to relocation for projects.*
         
 <p aling="center"> 
 **Education:** Upon scanning my repositories you can see the progressive build of code in various areas as well as my collaboration on 
