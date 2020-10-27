@@ -19,5 +19,5 @@ Thank you for stopping by, if you would like more information please reach out t
 [![Twitter Logo](/Twitter_Logo_WhiteOnBlue.png ="100x20")](https://twitter.com/AmykBarba)
 
 
-[![linkedIn Logo](/ =100x20)](https://www.linkedin.com/in/amy-barba-34020115/)
+[![linkedIn Logo](/LI-In-Bug.png ="100x20")](https://www.linkedin.com/in/amy-barba-34020115/)
 </p>
