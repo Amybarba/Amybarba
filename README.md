@@ -13,8 +13,8 @@ all areas of technology; hardware, data collection, front end design, etc...
 I am currently employed in a school district, running a young coders club, and working toward endorsement with Lambda and continued 
 certificates with Free Code Camp.
 Thank you for stopping by, if you would like more information please reach out to me via:
-  </p>
-<p align="center">
+  
+
 [![Twitter Logo](/Twitter_Logo_WhiteOnBlue.png)](https://twitter.com/AmykBarba)
 
 
