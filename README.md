@@ -1,4 +1,4 @@
-<h1 align="center">**Amy Barba**</h1>  
+<h1 align="center">Amy Barba</h1>  
 
 <p aling="center"> You have landed on Amy Barba's Github account. Currently I am located in Southern California but I am open to relocation for projects.
 Upon scanning my repositories you can see the progressive build of code in various areas as well as my collaboration on various project 
