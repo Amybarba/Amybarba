@@ -4,6 +4,7 @@
 *You have landed on Amy Barba's Github account. Currently I am located in Southern California but I am open to relocation for projects.*
         
 <p aling="center"> 
+        
 **Education:** Upon scanning my repositories you can see the progressive build of code in various areas as well as my collaboration on 
 various project based repositories to create applications. 
 In adding marketable skills to my resume I am currently exploring the world of computer code via Lambda's Full stack Web Development course 
