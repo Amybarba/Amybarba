@@ -16,9 +16,6 @@ Thank you for stopping by, if you would like more information please reach out t
   </p>
 
 
-:linkedin: [Amy Barba](https://www.linkedin.com/in/amy-barba-34020115/)
-
 <img src="https://www.flaticon.com/free-icon/linkedin_174857 alt="LinkedIn Logo"> [Amy Barba](https://www.linkedin.com/in/amy-barba-34020115/)
 
-:twitter: [Amy Barba](https://twitter.com/AmykBarba) 
 <img src="https://pngtree.com/freepng/twitter-free-button-png-image_4436094.html" alt="Twitter Logo"> [Amy Barba](https://twitter.com/AmykBarba)
