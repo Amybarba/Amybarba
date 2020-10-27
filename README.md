@@ -15,9 +15,8 @@ certificates with Free Code Camp.
 Thank you for stopping by, if you would like more information please reach out to me via:
   </p>
 
-
+<p align="center">
 <img src="https://www.flaticon.com/free-icon/linkedin_174857 alt="LinkedIn Logo"> [Amy Barba](https://www.linkedin.com/in/amy-barba-34020115/)
 
-<img src="https://imgur.com/gallery/LS08Auh" alt="TwitterLogo"/> 
-
-[Amy Barba](https://twitter.com/AmykBarba)
+<img src="https://imgur.com/gallery/LS08Auh" alt="TwitterLogo"/> [Amy Barba](https://twitter.com/AmykBarba)
+</p>
