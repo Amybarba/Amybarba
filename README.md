@@ -15,10 +15,8 @@ certificates with Free Code Camp.
 Thank you for stopping by, if you would like more information please reach out to me via:
   </p>
 
-<p align="center">
-<img src="https://imgur.com/7AyxuK6" alt="LinkedIn" width="20" />
-  </p>
-![Twitter Logo](Twitter_Logo_WhiteOnBlue.png)
+
+![Twitter Logo](/Twitter_Logo_WhiteOnBlue.png)
                                                                      
 img src="https://imgur.com/wrJ4iC9" alt="TwitterLogo" width="20" />
 (https://twitter.com/AmykBarba)
